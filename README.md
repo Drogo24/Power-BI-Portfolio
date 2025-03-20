@@ -6,3 +6,7 @@ Rating and reviews report is a powerful data visualization tool built on Power B
 
 ![Rating and reviews report (Click to view)](rate.png)
 
+## **2. Promotion compliance report**
+
+## **3. Inventory forecast report**
+
