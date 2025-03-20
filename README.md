@@ -7,6 +7,7 @@ Rating and reviews report is a powerful data visualization tool built on Power B
 ![Rating and reviews report (Click to view)](ratings.gif)
 
 ## **2. Promotion compliance report**
+Powerful analyzing and tracking tool built in Power BI to analyze how well the promotional campaigns run on e-Commerce websites adhere to the business requirements. It helps in taking actions based on the number of promotions complaint across a brand products, categories, over months to showcase a trend and difference promo where needed.
 
 ## **3. Inventory forecast report**
 
