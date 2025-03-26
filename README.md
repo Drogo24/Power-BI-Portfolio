@@ -11,10 +11,10 @@ Powerful analyzing and tracking tool built in Power BI to analyze how well the p
 
 ![Rating and reviews report (Click to view)](Promo.gif)
 
-## **3. Best seller ranking report**
-Best seller ranking report is a powerful tracking and analytical tool designed in Power BI to track and assess the performance of a brand products based on their rankings listed on Amazon's best seller page. It provides comparative insights into brand performance versus competitors, pinpointing key areas for improvement and driving strategic decision making to enhance market positioning.
+<!--## **3. Best seller ranking report**
+Best seller ranking report is a powerful tracking and analytical tool designed in Power BI to track and assess the performance of a brand products based on their rankings listed on Amazon's best seller page. It provides comparative insights into brand performance versus competitors, pinpointing key areas for improvement and driving strategic decision making to enhance market positioning.-->
 
-## **4. Business lens report**
+## **3. Business lens report**
 
 ![Rating and reviews report (Click to view)](BL1.gif)
 
