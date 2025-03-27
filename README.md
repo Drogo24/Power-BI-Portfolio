@@ -2,7 +2,7 @@
 Welcome to my Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence and analytics using Power BI.
 
 ## **1. Rating and reviews**
-Rating and reviews report is a powerful data visualization tool built in Power BI to analyze a brand products' ratings and customer feedback on e-commerce websites like Amazon and Myntra. This aims to identify actionable insights by analyzing average rating across categories, percentage breakdown of positive and negative reviews, ratings and reviews over time to identify seasonal trends or patterns, sentiment analysis, word clouds showing frequently used words or phrases in positive and negative reviews.
+Rating and reviews report is a powerful data visualization tool built in Power BI to analyze a brand products' ratings and customer feedback on e-commerce websites like Amazon and Myntra.
 
 ![Rating and reviews report (Click to view)](ratings.gif)
 
