@@ -19,7 +19,7 @@ Best seller ranking report is a powerful tracking and analytical tool designed i
 ![Rating and reviews report (Click to view)](BL1.gif)
 
 ## **4. Sales analysis**
-The Sales Analysis report is built using dummy data, allowing you to demonstrate the design and wide range of visuals in Power BI effectively. This dummy data simulates realistic sales figures, hierarchies, and trends, ensuring the dashboard provides actionable insights while remaining generic.
+The Sales Analysis report is built using dummy data, allowing you to demonstrate the design and wide range of visuals in Power BI effectively.
 
 ![Rating and reviews report (Click to view)](Visual.gif)
 
